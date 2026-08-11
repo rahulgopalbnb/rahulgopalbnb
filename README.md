@@ -5,7 +5,7 @@
   Passionate DevOps & Cloud enthusiast with hands-on experience in containerization, 
   application deployment, Linux server administration, Azure, monitoring & production support.
   <br/>
-  Also have a strong foundation in Frontend Development with React.js & Tailwind CSS.
+ 
 </p>
 
 <p align="center">
