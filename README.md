@@ -24,7 +24,7 @@
 - 🐧 **Linux** server administration and SSH operations
 - 📦 Container deployment, image management & application releases
 - 📊 Application and container monitoring
-- 💻 Frontend development using **React.js, JavaScript & Tailwind CSS**
+- 💻 Frontend development using **React.js, JavaScript**
 
 ---
 
