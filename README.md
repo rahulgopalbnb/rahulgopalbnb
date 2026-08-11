@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Rishu Raj Singh 👋</h1>
-<h3 align="center">🚀 DevOps Trainee | BCA Graduate '25</h3>
+<h1 align="center">Hi there, I'm Rahul Pandurang Gopal 👋</h1>
+<h3 align="center">🚀 DevOps Engineer | B.COM Graduate '2009 '25</h3>
 
 <p align="center">
   Passionate DevOps & Cloud enthusiast with hands-on experience in containerization, 
@@ -17,8 +17,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Education**: BCA Graduate (2025), LNCT Group of Colleges, Bhopal
-- 💼 **Role**: DevOps Trainee
+- 🎓 **Education**: B.COM Graduate (2009), Savitribai Phule Pune University, Maharashtra
+- 💼 **Role**: DevOps Engineer
 - 🐳 Working with **Docker, Docker Compose & Docker Swarm**
 - ☁️ Working with **Microsoft Azure Cloud Infrastructure**
 - 🐧 **Linux** server administration and SSH operations
