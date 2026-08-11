@@ -33,7 +33,7 @@
 | Category | Technologies |
 | --- | --- |
 | ☁️ **Cloud** | Microsoft Azure |
-| 🐳 **Containers** | kubernetes, Docker, Docker Compose, Docker Swarm,  |
+| 🐳 **Containers** | Kubernetes, Docker, Docker Compose, Docker Swarm,  |
 | 🐧 **OS** | Linux, Ubuntu, Windows |
 | 🔄 **CI/CD** | CI/CD Concepts, Jenkins |
 | 🔧 **Version Control** | Git, GitHub |
