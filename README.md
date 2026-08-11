@@ -63,15 +63,15 @@
 #### 🚀 DevOps Portfolio
 Personal portfolio showcasing my DevOps journey, cloud experience & technical work.  
 **Tech**: React, Tailwind  
-[🔗 Live](https://rishudevopsportfolio.netlify.app/) | [🔗 Repo](https://github.com/Rishurajsingh56/devops-portfolio)
+[🔗 Live]() | [🔗 Repo]()
 
 #### 💻 Personal Portfolio  
 Responsive personal portfolio built with modern frontend technologies.  
-[🔗 Repo](link-here)
+[🔗 Repo]()
 
 #### ✈️ The Travel Journey  
 React-based travel website with Firebase integration.  
-[🔗 Repo](link-here)
+[🔗 Repo]()
 
 ---
 
