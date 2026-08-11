@@ -83,9 +83,8 @@ React-based travel website with Firebase integration.
 ---
 
 ### 🤝 Connect With Me
-- 🌐 **Portfolio**: https://rishudevopsportfolio.netlify.app/
-- 💼 **LinkedIn**: https://www.linkedin.com/in/rishu-raj-singh-458a71251/
-- 🐙 **GitHub**: https://github.com/Rishurajsingh56
+- 💼 **LinkedIn**: www.linkedin.com/in/rahul-gopal-58377828
+- 🐙 **GitHub**: https://github.com/rahulgopalbnb
 
 ---
 
