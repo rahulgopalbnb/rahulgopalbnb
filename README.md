@@ -33,15 +33,15 @@
 | Category | Technologies |
 | --- | --- |
 | ☁️ **Cloud** | Microsoft Azure |
-| 🐳 **Containers** | Docker, Docker Compose, Docker Swarm |
-| 🐧 **OS** | Linux, Ubuntu |
+| 🐳 **Containers** | kubernetes, Docker, Docker Compose, Docker Swarm,  |
+| 🐧 **OS** | Linux, Ubuntu, Windows |
 | 🔄 **CI/CD** | CI/CD Concepts, Jenkins |
 | 🔧 **Version Control** | Git, GitHub |
 | 🌐 **Web Server** | Nginx |
-| 💻 **Frontend** | React.js, JavaScript, Tailwind CSS |
+| 💻 **Frontend** | React.js, JavaScript |
 | ⚙️ **Backend** | Node.js |
 | 🗄️ **Database** | MongoDB, Redis |
-| 📊 **Monitoring** | Prometheus, Grafana |
+| 📊 **Monitoring** | Azure Monitor, Prometheus, Grafana |
 
 ---
 
