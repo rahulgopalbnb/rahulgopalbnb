@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Rahul Pandurang Gopal
 
 <!--
-**rahulgopalbnb/rahulgopalbnb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🚀 DevOps Trainee | B.COM Graduate '2009
+I'm a passionate DevOps & Cloud enthusiast with hands-on experience in containerization, application deployment, Linux server administration, cloud infrastructure, monitoring, and production support.
+
+I also have a strong foundation in Frontend Development, with experience building responsive interfaces using modern web technologies..
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+☁️ Advanced Microsoft Azure
+🐳 Advanced Docker
+☸️ Kubernetes
+🔄 CI/CD & Automation
+🏗️ Infrastructure as Code
+📊 Monitoring & Observability
+🔐 Cloud & DevOps Security
 -->
