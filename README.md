@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rahul Pandurang Gopal 👋</h1>
-<h3 align="center">🚀 DevOps Engineer | Graduate 2009 </h3>
+<h3 align="center">🚀 DevOps & Infrastructure Engineer | Graduate 2009 </h3>
 
 <p align="center">
   DevOps & Cloud professional with experience in - 📦Containerization with Docker & Kubernetes - 📜Infrastructure as Code with Terraform - ☁️Cloud: Azure & AWS - 🐧Linux & ⊞Windows Server Administration & Monitoring - Application 📊 Deployment & Production Support
