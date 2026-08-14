@@ -2,8 +2,10 @@
 <h3 align="center">🚀 DevOps Engineer | Graduate 2009 </h3>
 
 <p align="center">
-  Passionate DevOps & Cloud enthusiast with hands-on experience in containerization, 
-  application deployment, Linux server administration, Azure, monitoring & production support.
+  DevOps & Cloud professional with experience in - 📦Containerization with Docker & Kubernetes - 📜Infrastructure as Code with Terraform - ☁️Cloud: Azure & AWS - 🐧Linux & ⊞Windows Server Administration & Monitoring - Application 📊 Deployment & Production Support
+
+<p align="center">
+  💡Always learning. ⤹ 🤖Always automating..
   <br/>
  
 </p>
