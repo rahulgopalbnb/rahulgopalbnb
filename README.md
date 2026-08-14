@@ -65,8 +65,8 @@ Personal portfolio showcasing my DevOps journey, cloud experience & technical wo
 **Project01**: Two-Tier Flask Application (Flask + MySQL)
 [🔗 Live]() | [🔗 Repo](https://github.com/rahulgopalbnb/DevOps-Project-Two-Tier-Flask-App.git)
 
-**Tech**: React, Tailwind  
-[🔗 Live]() | [🔗 Repo]()
+**Project02**: Three-Tier-EKS-IAC (Frontend: React.js - Backend: Node.js - DB: MongoDB / NoSQL - Infra: EKS for containers + Terraform for IaC)
+[🔗 Live]() | [🔗 Repo](https://github.com/rahulgopalbnb/Three-Tier-EKS-IAC.git)
 
 #### 💻 Personal Portfolio  
 Responsive personal portfolio built with modern frontend technologies.  
