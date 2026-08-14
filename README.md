@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rahul Pandurang Gopal 👋</h1>
-<h3 align="center">🚀 DevOps Engineer | B.COM Graduate 2009 </h3>
+<h3 align="center">🚀 DevOps Engineer | Graduate 2009 </h3>
 
 <p align="center">
   Passionate DevOps & Cloud enthusiast with hands-on experience in containerization, 
