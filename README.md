@@ -61,7 +61,8 @@
 ### 📂 Featured Projects
 
 #### 🚀 DevOps Portfolio
-Personal portfolio showcasing my DevOps journey, cloud experience & technical work.  
+Personal portfolio showcasing my DevOps journey, cloud experience & technical work.
+
 **Project01**: Two-Tier Flask Application (Flask + MySQL)
 [🔗 Live]() | [🔗 Repo](https://github.com/rahulgopalbnb/DevOps-Project-Two-Tier-Flask-App.git)
 
